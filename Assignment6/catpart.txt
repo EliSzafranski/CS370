@@ -1,0 +1,48 @@
+# From
+Length of From:
+    Empty.      [single][property emptyFrom]
+    One.        [single]
+    More than one. 
+
+# To 
+    Length of To:
+        Empty.          [single]
+        One.            [single]
+        More than one.  
+
+# Filename
+    File name Size:
+        Empty.                  [single][property emptyfile]
+        Not Empty.
+    Number of "from" pattern in the file:
+        None.                   [single][if !emptyfile && !emptyFrom] [property noOccurences]
+        One.                            [if !emptyfile && !emptyFrom]
+        Many.                           [if !emptyfile && !emptyFrom]
+
+
+# OPT Flags
+    -b Flag:
+        Present.
+        Not Present.
+    -f Flag:
+        Present.
+        Not Present.
+    -l Flag:
+        Present.
+        Not Present.
+    -i Flag:
+        Present.
+        Not Present.
+    
+
+# Files
+    Number of Files:
+        None.           [error] [if emptyfile]
+        One.                    [if !emptyfile]
+        Many.                   [if !emptyfile] 
+    Presence of a file corresponding to the name:
+        Not present.    [error]
+        Present.                [if !emptyfile]
+
+
+        

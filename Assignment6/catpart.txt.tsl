@@ -1,0 +1,864 @@
+
+Test Case 1  		<single>
+   Length of From :  Empty
+
+
+Test Case 2  		<single>
+   Length of From :  One
+
+
+Test Case 3  		<single>
+   Length of To :  Empty
+
+
+Test Case 4  		<single>
+   Length of To :  One
+
+
+Test Case 5  		<single>
+   File name Size :  Empty
+
+
+Test Case 6  		<single>
+   Number of "from" pattern in the file :  None
+
+
+Test Case 7  		<error>
+   Number of Files :  None
+
+
+Test Case 8  		<error>
+   Presence of a file corresponding to the name :  Not present
+
+
+Test Case 9  		(Key = 3.3.2.2.1.1.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 10 		(Key = 3.3.2.2.1.1.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 11 		(Key = 3.3.2.2.1.1.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 12 		(Key = 3.3.2.2.1.1.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 13 		(Key = 3.3.2.2.1.1.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 14 		(Key = 3.3.2.2.1.1.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 15 		(Key = 3.3.2.2.1.1.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 16 		(Key = 3.3.2.2.1.1.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 17 		(Key = 3.3.2.2.1.2.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 18 		(Key = 3.3.2.2.1.2.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 19 		(Key = 3.3.2.2.1.2.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 20 		(Key = 3.3.2.2.1.2.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 21 		(Key = 3.3.2.2.1.2.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 22 		(Key = 3.3.2.2.1.2.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 23 		(Key = 3.3.2.2.1.2.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 24 		(Key = 3.3.2.2.1.2.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 25 		(Key = 3.3.2.2.2.1.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 26 		(Key = 3.3.2.2.2.1.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 27 		(Key = 3.3.2.2.2.1.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 28 		(Key = 3.3.2.2.2.1.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 29 		(Key = 3.3.2.2.2.1.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 30 		(Key = 3.3.2.2.2.1.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 31 		(Key = 3.3.2.2.2.1.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 32 		(Key = 3.3.2.2.2.1.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 33 		(Key = 3.3.2.2.2.2.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 34 		(Key = 3.3.2.2.2.2.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 35 		(Key = 3.3.2.2.2.2.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 36 		(Key = 3.3.2.2.2.2.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 37 		(Key = 3.3.2.2.2.2.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 38 		(Key = 3.3.2.2.2.2.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 39 		(Key = 3.3.2.2.2.2.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 40 		(Key = 3.3.2.2.2.2.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  One
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 41 		(Key = 3.3.2.3.1.1.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 42 		(Key = 3.3.2.3.1.1.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 43 		(Key = 3.3.2.3.1.1.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 44 		(Key = 3.3.2.3.1.1.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 45 		(Key = 3.3.2.3.1.1.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 46 		(Key = 3.3.2.3.1.1.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 47 		(Key = 3.3.2.3.1.1.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 48 		(Key = 3.3.2.3.1.1.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 49 		(Key = 3.3.2.3.1.2.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 50 		(Key = 3.3.2.3.1.2.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 51 		(Key = 3.3.2.3.1.2.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 52 		(Key = 3.3.2.3.1.2.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 53 		(Key = 3.3.2.3.1.2.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 54 		(Key = 3.3.2.3.1.2.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 55 		(Key = 3.3.2.3.1.2.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 56 		(Key = 3.3.2.3.1.2.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 57 		(Key = 3.3.2.3.2.1.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 58 		(Key = 3.3.2.3.2.1.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 59 		(Key = 3.3.2.3.2.1.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 60 		(Key = 3.3.2.3.2.1.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 61 		(Key = 3.3.2.3.2.1.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 62 		(Key = 3.3.2.3.2.1.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 63 		(Key = 3.3.2.3.2.1.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 64 		(Key = 3.3.2.3.2.1.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 65 		(Key = 3.3.2.3.2.2.1.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 66 		(Key = 3.3.2.3.2.2.1.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 67 		(Key = 3.3.2.3.2.2.1.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 68 		(Key = 3.3.2.3.2.2.1.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 69 		(Key = 3.3.2.3.2.2.2.1.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 70 		(Key = 3.3.2.3.2.2.2.1.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 71 		(Key = 3.3.2.3.2.2.2.2.2.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  One
+   Presence of a file corresponding to the name :  Present
+
+
+Test Case 72 		(Key = 3.3.2.3.2.2.2.2.3.2.)
+   Length of From                               :  More than one
+   Length of To                                 :  More than one
+   File name Size                               :  Not Empty
+   Number of "from" pattern in the file         :  Many
+   -b Flag                                      :  Not Present
+   -f Flag                                      :  Not Present
+   -l Flag                                      :  Not Present
+   -i Flag                                      :  Not Present
+   Number of Files                              :  Many
+   Presence of a file corresponding to the name :  Present
+
