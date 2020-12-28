@@ -1,1 +1,1 @@
-# Eli Szafranski's work for CSCI 370 Software Engineering
+# CSCI 370 Software Engineering
